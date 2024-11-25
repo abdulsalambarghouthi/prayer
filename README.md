@@ -107,7 +107,6 @@ Contributions are welcome! To contribute:
    git commit -m "Add feature-name"
    ```
 4. Push to your fork and submit a pull request.
-
-
-
 ---
+### **All Rights Reserved**
+All rights for this project are reserved to AbdulSalam Barghouthi. Unauthorized reproduction, distribution, or use of this project or any part of its codebase is strictly prohibited without explicit permission from the owner.
